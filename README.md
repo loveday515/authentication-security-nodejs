@@ -14,7 +14,7 @@ This project demonstrates how authentication and security is implemented and enh
 * express
 * ejs
 * body-parser
-* mongoose
+* mongoose etc.
 
 ### Installing
 
